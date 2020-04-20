@@ -15,5 +15,7 @@ At each run the script saves the metrics from the python scikitlearn classificat
 Ech seed was chosen randomly and manually inputed in the section "Constant". 
 
 ### AlBERTo models:
-1) [AlBERTo One Month Window](https://drive.google.com/file/d/1rlEfEwJ3_n-9oCQkZmqqrRM9CZeWhdS4/view?usp=sharing)
-2) [AlBERTo Incremental One Month](https://drive.google.com/file/d/1ruwy9mEuGw4mKvdUcGsMukJc8fnRbnfm/view?usp=sharing)
+1) [One Month Window](https://drive.google.com/file/d/1rlEfEwJ3_n-9oCQkZmqqrRM9CZeWhdS4/view?usp=sharing)
+2) [Incremental One Month](https://drive.google.com/file/d/1ruwy9mEuGw4mKvdUcGsMukJc8fnRbnfm/view?usp=sharing)
+3) [Haspeede + One Month Window](https://drive.google.com/file/d/1pvWb5ZoD7SmTE5q6y7CojVA8MeSpzM6G/view?usp=sharing)
+
